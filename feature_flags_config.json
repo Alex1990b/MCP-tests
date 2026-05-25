@@ -1,0 +1,36 @@
+{
+  "featureFlags": {
+    "onboarding_redesign": true,
+    "ai_insights_enabled": true,
+    "family_sync": true,
+    "dark_mode_v2": false,
+    "push_notifications": {
+      "enabled": true,
+      "quiet_hours": {
+        "start": "22:00",
+        "end": "07:00"
+      }
+    },
+    "growth_tracking": true,
+    "feeding_tracker": true,
+    "minimum_supported_version": {
+      "ios": "2.5.0",
+      "android": "2.4.8"
+    },
+    "maintenance_mode": false,
+    "beta_features": {
+      "voice_logging": false,
+      "smart_recommendations": true,
+      "multi_baby_dashboard": true
+    },
+    "experiments": {
+      "trial_length_test": {
+        "enabled": true,
+        "groups": {
+          "control": "7_days",
+          "variant_a": "14_days"
+        }
+      }
+    }
+  }
+}
