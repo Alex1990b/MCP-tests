@@ -31,6 +31,5 @@
       }
     }
   },
-  "myCustomFlag": true,
-  "myNewFlag": true
+  "myCustomFlag": true
 }
