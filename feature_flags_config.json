@@ -31,5 +31,6 @@
       }
     }
   },
-  "myCustomFlag": true
+  "myCustomFlag": true,
+  "aiGuideChat": true
 }
